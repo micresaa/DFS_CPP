@@ -1,4 +1,4 @@
-//ÇóÃÔ¹¬ÓĞ¶àÉÙÖÖ½â·¨
+//æ±‚è¿·å®«æœ‰å¤šå°‘ç§è§£æ³•
 #include <iostream>
 using namespace std;
 #include <string>
